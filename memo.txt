@@ -4,4 +4,6 @@ alert("Hello World"); => 출력
 
 console.log("Hello World");  <- 실행시 경고창 대신에 console 창에 Hello World 표시
 
-var = 변수를 선언  => var 변수 = 수 ;
+var = 변수를 선언  => var 변수 = 수 ; (글자도 선언 가능)
+      처음 변수 선언후에는 var을 붙이지 않아도 사용가능
+      (  var a = 수 , b = "글자" ; ) 사용가능
